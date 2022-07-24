@@ -1,0 +1,20 @@
+{
+  "name": "trackme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "8.7.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "cd client && npm install && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eugenio.arosteguy@gmail.com",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "license": "ISC"
+}

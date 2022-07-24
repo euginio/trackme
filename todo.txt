@@ -1,0 +1,18 @@
+FUNCTIONALITIES
+
+get different data from smart watch/band
+while sleep 
+    take photos
+    record sound 
+    take data from smart band
+interrupt me
+    I'm using device
+        take automatic photo
+    I'm focusin in the app
+        ask 
+            about past: 
+                what did you do? (allow several activities by time range (attach near photos))
+            about now:
+                how do you feel from 1 to 5?
+                do you need calmdown or increase energy?
+                show breath excercise
